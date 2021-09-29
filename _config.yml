@@ -15,6 +15,7 @@ timezone: Asia/Shanghai
 title: 李乾坤的博客 
 description: 李乾坤的博客
 url: http://demo.github.io
+root: demo.github.io
 rss_url: 
 baseurl: https://scany1211.github.io/demo.github.io/
 # gavatar头像及Favicon
