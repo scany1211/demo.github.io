@@ -16,7 +16,7 @@ title: 李乾坤的博客
 description: 李乾坤的博客
 url: http://demo.github.io
 rss_url: 
-
+base_url: https://github.com/scany1211/demo.github.io
 # gavatar头像及Favicon
 gavatar: /public/upload/gavatar/gavatar.jpg
 favicon: /public/upload/gavatar/favicon.ico
