@@ -10,11 +10,11 @@ author:
   link: 
   weibo: 
   github: http://qiankunli.github.io
-
+timezone: Asia/Shanghai
 # 站点信息
 title: 李乾坤的博客 
 description: 李乾坤的博客
-url: http://qiankunli.github.io
+url: http://demo.github.io
 rss_url: 
 
 # gavatar头像及Favicon
@@ -29,12 +29,8 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
-
+  shortname: scany1211
 # gitment
-gitment:
-  id: ddbaadab5f5d810805c3
-  secret: 13b91b306680f11a55713382529b83259ef56546
 
 # 主题设置，自动激活某个标签
 active: 技术
